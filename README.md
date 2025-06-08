@@ -1,8 +1,6 @@
-# mobile-friendly-layout-UI
+# mobile-friendly-layout-UI 
 
-# goride  
-
-[project link](https://imsaurav06.github.io/Elevate_Labs_task1/)
+[project link](https://imsaurav06.github.io/mobile-friendly-layout-UI/)
 
 
 
